@@ -1,0 +1,2 @@
+Rank-1 Accuracy: 83.57%
+mAP: 86.17%
